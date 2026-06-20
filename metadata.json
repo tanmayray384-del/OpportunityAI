@@ -1,0 +1,6 @@
+{
+  "name": "OpportunityAI",
+  "description": "Find the right student opportunities at the right time. Instantly match with Hackathons, Internships, Scholarships, and Fellowships that align with your skills and goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
